@@ -17,7 +17,6 @@
 #### Pad / Phones
 
 [![iPad Pro 21](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
-[![Oneplus 8 Pro](https://img.shields.io/badge/OnePlus%208%20Pro-dd4814?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/8-pro)
 
 #### Router / Band
 
