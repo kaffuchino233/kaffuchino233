@@ -15,7 +15,7 @@
 ### 📱 Devices
 
 #### Pad / Phones
-
+[![Pixel 5](https://img.shields.io/badge/Pixel%205-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![iPad Pro 21](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
 
 #### Router / Band
