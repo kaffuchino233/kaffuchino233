@@ -1,4 +1,4 @@
-[![QKIvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QKIvan&include_all_commits=true&show_icons=true&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![QKIvan's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=QKIvan&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋 I'm QKIvan
 
