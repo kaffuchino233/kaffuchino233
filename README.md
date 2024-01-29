@@ -26,4 +26,4 @@
 ### osu!
 ##### [qkivan](https://osu.ppy.sh/users/31077652)
 #### osu!mania
-##### 4K : Z X M , | 7K Z X C [Space] M , .
+##### 4K : Z X M ,
