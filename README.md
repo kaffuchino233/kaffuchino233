@@ -23,7 +23,7 @@
 [![Redmi AX6S](https://img.shields.io/badge/Redmi%20AX6S-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
 [![Mi Band 6 NFC](https://img.shields.io/badge/Mi%20Band%206%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shouhuan6/nfc)
 
-### osu!
-##### [qkivan](https://osu.ppy.sh/users/31077652)
-#### osu!mania
-##### 4K : Z X M ,
+### osu!mania
+Account Link: https://osu.ppy.sh/users/31077652  
+#### 4K : Z X M ,  
+#### Keyboard: Drunkdeer A75
