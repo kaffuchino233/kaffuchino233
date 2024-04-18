@@ -21,7 +21,7 @@
 #### Router / Band
 
 [![Redmi AX6S](https://img.shields.io/badge/Redmi%20AX6S-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
-[!Redmi CR660X](https://img.shields.io/badge/Redmi%20CR660X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+[![Redmi CR660X](https://img.shields.io/badge/Redmi%20CR660X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
 [![Mi Band 6 NFC](https://img.shields.io/badge/Mi%20Band%206%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shouhuan6/nfc)
 
 ### osu!mania
