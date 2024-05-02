@@ -27,4 +27,4 @@
 ### osu!mania
 Account Link: https://osu.ppy.sh/users/31077652  
 #### 4K : Z X M ,  
-#### Keyboard: Drunkdeer A75
+#### Keyboard: Deck Frigate Pro/SayoDevice CM51
