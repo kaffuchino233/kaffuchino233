@@ -1,4 +1,4 @@
-[![QKIvan's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=QKIvan&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![QKIvan's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=kaffuchino233&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋 I'm KafuuChino-
 
@@ -11,7 +11,7 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
 [![iPadOS 16](https://img.shields.io/badge/iPadOS%2018-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipados/ipados-18/)
-[![Wear OS 4.0](https://img.shields.io/badge/Wear%20OS%204.0-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
+![Wear OS 4.0](https://img.shields.io/badge/Wear%20OS%204.0-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 
 ### 📱 Devices
 
