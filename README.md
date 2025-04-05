@@ -4,11 +4,11 @@
 
 - 🌱 A Noob.
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=QKIvan&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> </picture>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kaffuchino233&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> </picture>
 
 ### 🖥️ Environment
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 [![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
 [![iPadOS 16](https://img.shields.io/badge/iPadOS%2018-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipados/ipados-18/)
 ![Wear OS 4.0](https://img.shields.io/badge/Wear%20OS%204.0-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
