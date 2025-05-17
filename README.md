@@ -32,6 +32,6 @@ a.k.a. QKIvan
 ### VSRG
 4K/6K player for now.
 osu! Account: https://osu.ppy.sh/users/31077652  
-4K: Z X M , | 6K: Z X C M , .
-Dan: Reform 10 / Malody Extra-2 V3 / _underjoy's LN11 / XFPSB 3
+4K: Z X M , | 6K: Z X C M , .  
+Dan: Reform 10 / Malody Extra-2 V3 / _underjoy's LN11 / XFPSB 3  
 Keyboard: SayoDevice K64H3 (With Lekker Linear45) / Ducky Zero 9108 (With CHERRY MX Brown) / Deck Frigate Pro (With LEOBOG Graywood V4) / Yuemee Pro MK02 (With Kailh MX Ice Mint V1) / Yuemee Pro MK02S (With CHERRY MX2A Brown)
