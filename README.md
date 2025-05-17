@@ -24,14 +24,20 @@ a.k.a. QKIvan
 ![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### Router / Band
-
 [![Redmi AX6S](https://img.shields.io/badge/Redmi%20AX6S-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
 [![Redmi CR660X](https://img.shields.io/badge/Redmi%20CR660X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
 ![Samsung Galaxy Watch 5 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%205%20Pro-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
+
+### Keyboard
+- SayoDevice K64H3 (With Lekker Linear45)
+- Ducky Zero 9108 (With CHERRY MX Brown)
+- Deck Frigate Pro (With LEOBOG Graywood V4)
+- Yuemee Pro MK02 (With Kailh MX Ice Mint V1)
+- Yuemee Pro MK02S (With CHERRY MX2A Brown)
 
 ### VSRG
 4K/6K player for now.
 osu! Account: https://osu.ppy.sh/users/31077652  
 4K: Z X M , | 6K: Z X C M , .  
 Dan: Reform 10 / Malody Extra-2 V3 / _underjoy's LN11 / XFPSB 3  
-Keyboard: SayoDevice K64H3 (With Lekker Linear45) / Ducky Zero 9108 (With CHERRY MX Brown) / Deck Frigate Pro (With LEOBOG Graywood V4) / Yuemee Pro MK02 (With Kailh MX Ice Mint V1) / Yuemee Pro MK02S (With CHERRY MX2A Brown)
+Keyboard: SayoDevice K64H3
