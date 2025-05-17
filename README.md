@@ -2,8 +2,7 @@
 
 # kaffuchino233
 ### Hi there 👋 I'm KafuuChino-
-a.k.a. QKIvan
-
+a.k.a. QKIvan  
 - A Noob interested in AOSP and open-source
 - A maintainer of corvette and marble
 - zh-CN / en-US
@@ -11,22 +10,19 @@ a.k.a. QKIvan
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kaffuchino233&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> </picture>
 
 ## 🖥️ Environment
-
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 [![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
 [![iPadOS 18](https://img.shields.io/badge/iPadOS%2018-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipados/ipados-18/)
 
 ## 📱 Devices
-
-### Pad / Phones
-[![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
+### Pad / Phones / TWS
 ![OnePlus Ace 3 Pro](https://img.shields.io/badge/OnePlus%20Ace%203%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-
+[![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
+![OPPO Enco Free4](https://img.shields.io/badge/OPPO%20Enco%20Free4-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 ### Router / Band
 [![Redmi AX6S](https://img.shields.io/badge/Redmi%20AX6S-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
 [![Redmi CR660X](https://img.shields.io/badge/Redmi%20CR660X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
-![Samsung Galaxy Watch 5 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%205%20Pro-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 
 ### Keyboard
 - SayoDevice K64H3 (With Lekker Linear45)
