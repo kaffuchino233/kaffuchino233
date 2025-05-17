@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=kaffuchino233&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaffuchino233&show_icons=true&hide_border=true&icon_color=000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=000&show=prs_merged_percentage&include_all_commits=true&count_private=true">
 
 # kaffuchino233
 ### Hi there 👋 I'm KafuuChino-
