@@ -18,9 +18,7 @@ a.k.a. QKIvan
 ![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 [![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
 ![OPPO Enco Free4](https://img.shields.io/badge/OPPO%20Enco%20Free4-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
-### Router / Band
 [![Redmi AX6S](https://img.shields.io/badge/Redmi%20AX6S-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
-[![Redmi CR660X](https://img.shields.io/badge/Redmi%20CR660X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/shop/buy/detail?product_id=15032)
 
 ### Keyboard
 - SayoDevice K64H3 (With Lekker Linear45)
