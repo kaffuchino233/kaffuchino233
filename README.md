@@ -1,4 +1,5 @@
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=kaffuchino233&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true">  
+
 ### Hi there 👋 I'm KafuuChino-
 a.k.a. QKIvan  
 - A Noob interested in AOSP and open-source
