@@ -1,4 +1,4 @@
-[![QKIvan's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=kaffuchino233&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=kaffuchino233&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true>
 
 # kaffuchino233
 ### Hi there 👋 I'm KafuuChino-
@@ -7,7 +7,7 @@ a.k.a. QKIvan
 - A maintainer of corvette and marble
 - zh-CN / en-US
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kaffuchino233&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> </picture>
+<img align="right" src=https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kaffuchino233&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
 
 ## 🖥️ Environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
