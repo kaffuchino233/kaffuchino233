@@ -15,7 +15,7 @@ a.k.a. QKIvan
 [![iPadOS 18](https://img.shields.io/badge/iPadOS%2018-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipados/ipados-18/)
 
 ## 📱 Devices
-### Pad / Phones / TWS
+### Phone / Pad / TWS
 ![OnePlus Ace 3 Pro](https://img.shields.io/badge/OnePlus%20Ace%203%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 [![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
