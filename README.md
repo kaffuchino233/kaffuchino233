@@ -17,8 +17,7 @@ a.k.a. QKIvan,KafuuChino-,loop233
 ## 📱 Devices
 
 ### Phone / Pad  
-![Google Pixel 7 Pro](https://img.shields.io/badge/Google%20Pixel%207%20Pro-4285f4?style=flat-square&logo=google&logoColor=ffffff)
-![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Realme GT5 Pro](https://img.shields.io/badge/Realme%20GT5%20Pro-ffca14?style=flat-square)
 [![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
 
 ### Wearable  
@@ -37,5 +36,5 @@ a.k.a. QKIvan,KafuuChino-,loop233
 4K/6K player for now.  
 osu! Account: https://osu.ppy.sh/users/31077652  
 4K: Z X M , | 6K: Z X C M , .  
-Skill: Reform 10 / Malody Extra-2 V3 / _underjoy's LN11
+Skill: Shoegazer 10 Dan V2 / Malody Extra-3 V2 / _underjoy's LN12
 Keyboard: SayoDevice K64H1MZ
