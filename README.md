@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm kaffuchino233
 
-a.k.a. QKIvan,KafuuChino-,loop233
+a.k.a. QKIvan
 
 - A Noob interested in open-source and rhythm game.
 - zh-CN / en-US
@@ -20,6 +20,7 @@ a.k.a. QKIvan,KafuuChino-,loop233
 [![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
 
 ### Wearable  
+![Galaxy Watch FE](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%20FE-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Galaxy Buds2 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20Buds2%20Pro-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 
 ### Router  
@@ -27,10 +28,7 @@ a.k.a. QKIvan,KafuuChino-,loop233
 
 ### Keyboard  
 - SayoDevice K61H3MZ (With Lekker Linear45 V1)
-- Deck Frigate Pro (With TTC Gold V2 Red)
-- DrunkDeer G60 (With 42g Spring)
 - Ducky Zero 9108 (With CHERRY MX Brown)
 
 ### VSRG  
-4K/6K player for now.  
-4K: Z X M , | 6K: Z X C M , .  
+4K: Z X M ,
