@@ -18,6 +18,7 @@ a.k.a. QKIvan
 
 ### Phone / Pad  
 ![Realme GT5 Pro](https://img.shields.io/badge/Realme%20GT5%20Pro-ffca14?style=flat-square)
+![Redmi K40 Pro](https://img.shields.io/badge/Redmi%20K40%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 [![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
 
 ### Router  
@@ -25,7 +26,7 @@ a.k.a. QKIvan
 
 ### Wearable  
 ![Galaxy Watch FE](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%20FE-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
-![Galaxy Buds2 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20Buds2%20Pro-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
+![OPPO Enco Free4](https://img.shields.io/badge/OPPO%20Enco%20Free4-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 
 ## 🖥Environment
 
