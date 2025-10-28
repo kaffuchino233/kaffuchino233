@@ -26,6 +26,7 @@ a.k.a. QKIvan
 
 ### Wearable  
 ![Galaxy Watch FE](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%20FE-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
+![Redmi Buds4 Pro](https://img.shields.io/badge/Redmi%20Buds4%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![OPPO Enco Free4](https://img.shields.io/badge/OPPO%20Enco%20Free4-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 
 ## 🖥Environment
