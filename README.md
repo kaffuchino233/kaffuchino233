@@ -13,12 +13,14 @@ a.k.a. QKIvan
 ## Devices
 
 ### Keyboard  
-- SayoDevice K61H3MZ (With Lekker Linear45 V1)
-- Ducky Zero 9108 (With CHERRY MX Brown)
+- SayoDevice K61H3MZ (Lekker Linear45 V1)
+- Transition Lite (FLCMMK Ice Mint V2)
+- Yuemi Pro MK02S (-)
+- Ducky Zero 9108 (CHERRY MX Brown)
 
 ### Phone / Pad  
-![Realme GT5 Pro](https://img.shields.io/badge/Realme%20GT5%20Pro-ffca14?style=flat-square)
-![Redmi K40 Pro](https://img.shields.io/badge/Redmi%20K40%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Redmi K40](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 [![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
 
 ### Router  
@@ -27,7 +29,6 @@ a.k.a. QKIvan
 ### Wearable  
 ![Galaxy Watch FE](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%20FE-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Redmi Buds4 Pro](https://img.shields.io/badge/Redmi%20Buds4%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![OPPO Enco Free4](https://img.shields.io/badge/OPPO%20Enco%20Free4-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
 
 ## 🖥Environment
 
