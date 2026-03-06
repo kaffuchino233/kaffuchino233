@@ -13,19 +13,20 @@ a.k.a. QKIvan
 ## Devices
 
 ### Keyboard  
+- Ducky Zero 9108
+- GANSS GS3104T-LI
 - SayoDevice K61H3MZ (Lekker Linear45 V1)
-- Ducky Zero 9108 (CHERRY MX Brown)
 
 ### Phone / Pad  
 ![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-[![iPad Pro 2021](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro/)
+![OnePlus 7T](https://img.shields.io/badge/OnePlus%207T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 
 ### Router  
 ![Redmi AX6S](https://img.shields.io/badge/Redmi%20AX6S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### Wearable  
 ![Galaxy Watch FE](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%20FE-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
-![OPPO Enco Air4 Pro](https://img.shields.io/badge/OPPO%20Enco%20Air4%20Pro-20683d?style=flat-square&logo=oppo&logoColor=ffffff)
+![Apple AirPods Pro 2](https://img.shields.io/badge/Apple%20AirPods%20Pro%202-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
 ## Sponsor
 - [爱发电](https://afdian.com/a/kaffuchino233)
