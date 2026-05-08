@@ -13,12 +13,8 @@ a.k.a. QKIvan
 
 ## Devices
 
-### Keyboard  
-- Ducky Zero 9108
-- GANSS GS3104T-LI
-- SayoDevice K61H3MZ (Lekker Linear45 V1)
-
 ### Phone / Pad  
+![OnePlus 12](https://img.shields.io/badge/OnePlus%2012-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![Redmi K40](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### Router  
