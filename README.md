@@ -4,8 +4,8 @@
 
 a.k.a. QKIvan
 
-- A Noob interested in open-source and rhythm game.
-- A member of AviumUI and Neoteric-OS
+- A student interested in android and rhythm game.
+- A member/maintainer of AviumUI and Neoteric-OS
 - zh-CN / en-US
 
 ## Contact  
@@ -22,7 +22,6 @@ a.k.a. QKIvan
 
 ### Wearable  
 ![Apple AirPods Pro 2](https://img.shields.io/badge/Apple%20AirPods%20Pro%202-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-![Galaxy Watch FE](https://img.shields.io/badge/Samsung%20Galaxy%20Watch%20FE-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![OnePlus Buds Pro 2](https://img.shields.io/badge/OnePlus%20Buds%20Pro%202-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 
 ## Sponsor
